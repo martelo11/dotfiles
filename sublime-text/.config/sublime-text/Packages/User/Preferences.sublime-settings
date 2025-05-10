@@ -1,0 +1,23 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Catppuccin Macchiato.sublime-color-scheme",
+	"font_size": 16,
+	"font_face": "Inconsolata Nerd Font",
+	"show_encoding": true,
+	"show_line_endings": true,
+	"show_status_bar": true,
+    "translate_tabs_to_spaces": true,
+    "tab_size": 4,
+    "word_wrap": false,
+    "highlight_line": true,
+    "match_brackets": true,
+    "trim_trailing_white_space_on_save": true,
+    "ensure_newline_at_eof_on_save": true,
+    "scroll_past_end": true,
+    "draw_white_space": "selection",
+    "fade_fold_buttons": false
+}
