@@ -5,14 +5,19 @@ Note: This repository is a work in progress and is intended for personal use.
 
 ## Requirements
 
-GNU Stow: https://www.gnu.org/software/stow/
-dconf: a system for storing and retrieving configuration data
+- GNU Stow: https://www.gnu.org/software/stow/
+- dconf: a system for storing and retrieving configuration data
 
 ## Usage Dotfiles
 
 - Install GNU Stow on your system.
 - Clone this repository to ~/dotfiles directory.
 - Run stow in directory to manage system configuration files.
+
+```bash
+cd ~/dotfiles
+stow kitty
+```
 
 ## Usage Dumpfiles
 
